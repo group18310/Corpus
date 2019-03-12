@@ -192,22 +192,14 @@ Discussion
 Alluvium is usually assumed to hide the underlying geology, but rates of active tectonic movement are sufficiently rapid to affect the morphology and behavior of alluvial rivers. Rivers being the most sensitive components of the landscape will provide evidence of even, slow, aseismic tectonic activity. For example, evidence of active tectonics is as follows: 
 
 
-	1.
-	deformation of valley floor longitudinal profile
-	2.
-	deformation of channel longitudinal profile
-	3.
-	change of channel pattern 
-	4.
-	change of channel width and depth
-	5.
-	conversion of floodplain to a low terrace
-	6.
-	reaches of active channel incision or lateral shift 
-	7.
-	effects both upstream and downstream of the zone of deformation (degradation, aggradation, flooding, bank erosion)
-	8.
-	formation of lakes 
+	1. deformation of valley floor longitudinal profile.
+	2. deformation of channel longitudinal profile.
+	3. change of channel pattern.
+	4. change of channel width and depth.
+	5. conversion of floodplain to a low terrace.
+	6. reaches of active channel incision or lateral shift.
+	7. effects both upstream and downstream of the zone of deformation (degradation, aggradation, flooding, bank erosion).
+	8. formation of lakes. 
 
 
 Alluvial channels are sensitive indicators of change, but they also adjust to changes of hydrology and sediment load as well as to active tectonics. Therefore, it may be difficult to determine the cause of channel change when, in fact, human activities have been changing both discharge and sediment load during historic time. Pattern change alone is not sufficient evidence for active tectonics, rather it is one bit of evidence that must be supported with other morphologic evidence and/or surveys that provide clear evidence of deformation. In many areas, the evidence will be circumstantial. Nevertheless, anomalous reaches that are not related to artificial controls, tributary influences, lithologic change, or paleotectonics may reasonably be assumed to be the result of active tectonics until proved otherwise. 
@@ -321,40 +313,6 @@ In the future, we submit, most careers will be boundaryless. We have sought to i
 acknowledgements 
 
 We are deeply indebted to Polly Parker of the University of Auckland, New Zealand, Anne Duncan and Svenja Tams of the London Business School, and Julian Smith for their feedback on an earlier draft of this chapter. Special thanks go to AnnaLee Saxenian, Candace Jones, and Karl Weick, authors of chapters in The boundaryless career in which these ideas were originally presented and on which the bulk of this text is based. 
-
-references 
-
-Arthur, M. B., Inkson, K., & Pringle, J. K., (1999). The new careers: Individual action and economic change. London: Sage. 
-
-Arthur, M. B. & Rousseau, D. M. (Eds.) (1996). The boundaryless career: A new employment principle for a new organizational era. New York: Oxford University Press. 
-
-Bakan, D. (1966). The duality of human existence: An essay on psychology and religion. Boston: Beacon. 
-
-Collins, J. C. & Porras, J. L. (1995). Built to last: Successful habits of visionary companies. London: Century. 
-
-Jones, C. (1996). Careers in project networks: The case of the film industry. In M. B. Arthur & D. M. Rousseau (Eds.), The boundaryless career: A new employment principle for a new organizational era (pp. 58–75). New York: Oxford University Press. 
-
-Marshall, J. (1989). Re-visioning career concepts: A feminist invitation. In M. B. Arthur, D. T. Hall, & B. S. Lawrence (Eds.), Handbook of career theory (pp. 275–291). New York: Cambridge University Press. 
-
-Mischel, W. (1968). Personality and assessment. New York: John Wiley & Sons. 
-
-Parker, P. & Arthur, M. B. (2000). Careers, organizing and community. In M. B. Arthur, M. A. Peiperl, R. Goffee, & T. Morris, (Eds.), Career frontiers: New conceptions of working lives (pp. 99–121). Oxford: Oxford University Press. 
-
-Quinn, J. B. (1992). Intelligent enterprise. New York: Free Press. 
-
-Rousseau, D. M. & Arthur, M. B. (1999). The boundaryless human resource function: building agency and community in the new economic era. Organizational Dynamics 27 (4), 7–18. 
-
-Saxenian, A. (1996). Beyond boundaries: Open labor markets and learning in Silicon Valley. In M. B. Arthur & D. M. Rousseau (Eds.), The boundaryless career: A new employment principle for a new organizational era (pp. 23–39). New York: Oxford University Press. 
-
-Weick, K. E. (1979). The social psychology of organizing, (2nd edn). Reading, MA: Addison-Wesley. (1995). Sensemaking in organizations. Thousand Oaks, CA: Sage. (1996). Enactment and the boundaryless career: Organizing as we work. In M. B. Arthur & D. M. Rousseau (Eds.), The boundaryless career: A new employment principle for a new organizational era (pp. 40–57). New York: Oxford University Press. 
-
-Whyte, W. H. (1956). The organization man. New York: Simon and Schuster. 
-
-Williamson, O. E. (1975). Markets and hierarchies: Analysis and antitrust implications. New York: Free Press. 
-
-
-
-
    
    
       
@@ -697,12 +655,11 @@ Even though the zoot suit was worn by the young men of several different races a
 During the summer of 1943 the attention of the whole country was on Los Angeles when gangs of sailors and zoot-suiters battled with each other in the streets of the city. It is unclear if this was a race riot or a riot of patriotic sailors who attacked, beat, and stripped young Mexican Americans whom they perceived to be unpatriotic zoot-suiters. Between the third and thirteenth of June zoot-suiters were open targets. Much has been written about these riots from both literary and historical perspectives.
 During the late 1970s the zoot suit received wide recognition and popularity with the production of a successful play by Luis Valdez. In 1981 a film by the same name, Zoot Suit, was produced and directed by Luis Valdez, with performances by actors Daniel Valdez and Edward James Olmos.
 See also Cholos; Pachucos
-References Barker 1950; Cosgrove 1989; Ellison, 1947; Mazon 1984; Orona-Cordova 1992; Sanchez 1978; Stone 1990; Tyler 1994; Valdez 1992; Zoot Suit 1981
 Zozobra
 A giant, forty-foot effigy in the form of a puppet, which is burned during the annual Santa Fe Fiesta held in Santa Fe, New Mexico. The word Zozobra translates to “gloom” or “worry” or “anguished.” The Zozobra is ritualistically burned at the beginning of the fiesta, which symbolizes the end of destructiveness, gloom, and worry, setting the tone for a successful fiesta. The creation of Zozobra was introduced into the fiesta in 1926 by Will Shuster, who felt that the fiesta had become “dull and commercialized.” Throughout the years the image of Zozobra changed from a simple twenty-foot puppet to the elaborate forty-foot figure with animated eyes, arms, and mouth that he is today. In 1969 Shuster turned over the responsibility and copyright of Zozobra to the Kiwanis Club of Santa Fe. He is hung on a tall pole on a hill, outside the city, where the burning can be seen by the thousands of people who come to watch. The death of gloom is supposed to resurrect happiness.
 In response to the tradition of the burning of Zozobra, a group of New Mexico Chicanos started a tradition of burning El Kookoóee, a figure known by many Chicanos as the bogeyman, during the Festival de Otoño.
 See also El Kookoóee; Santa Fe Fiesta
-References Cohen 1985; Grimes 1976; Weigle and White 1988
+
 
 
 
@@ -773,7 +730,6 @@ Like Hunt, Frank Gehry enlists novel materials in his buildings. The Guggenheim 
 Gehry’s talent is his exceptional formal imagination; his skill as an architect is to reconcile the forms he imagines with the functional demands of his client. And, of course, to find ways to build those forms. This is generally done without fuss. The titanium sheets simply follow the churning surfaces like shingles on a Shingle Style roof; limestone is used in a similarly unaffected fashion, without articulated joints. Gehry shares a minimalist approach to details with the early architects of the International Style, but he deploys these details to different ends. By removing familiar elements such as coping strips, fascias, and trim, he accentuates the sculptural quality of his buildings. There are no roofs or walls or windows in the Guggenheim, there are only swirling and twisting planes of metal, stone, and glass. An architecture critic once described Gehry as “a smart man from Hollywood,” which nicely captures the architect’s blend of exuberant showmanship and canny behind-the-scenes savvy.
 Although sophisticated building techniques and innovative materials play a major role in Gehry’s buildings, like Hunt, he keeps technology off center stage. In that regard, he repudiates the mannered industrial style that pervades the work of many contemporary architects. Neither is he nostalgic about the past. Gehry rejects both the moralistic functionalism of the International Style and the traditions of Classicism. Architects have broken rules in the past, but rarely this unequivocally and totally.
 Gehry, like Hunt, has changed the course of architecture. That is, he has made us look at our surroundings in a different way. The world of Gehry’s buildings is, at first glance, an odd place. The line between order and disorder is a thin one, and it is difficult to know what is intended and what is accidental. But his colliding forms and agitated architecture are curiously unthreatening. This is the way we live today, Gehry seems to be saying, why not enjoy it?
-
 
 
 
